@@ -1,1 +1,3 @@
 # ETL-project
+
+This is a demonstration of our ability to select, clean, and export data sets into a SQL database to be merged into a cohesive table. We selected two csv files pertaining to dementia patients and their age, cognitive abilities, and demographic. Further explanation on the specifics of the ETL process is available in the ETL Project Breakdown document uploaded to the repository. Due to the messy data in the csv sourced from the CDC it would be difficult for the final table produced in SQL to have any real-world application, although it is an interesting comparison of age group, cognitive scoring, and obesity rates in certain demographics. 
